@@ -1,4 +1,5 @@
 Assignment 5.1:  “Will a customer accept the coupon?”
+https://github.com/alihushyar/kraftwerk/blob/main/prompt.ipynb
 
 # There is a baseline of 41% of bar coupons that are accepted. 
 # It is clear that those patrons who go often (more than 3 times a month) accept coupons at a higher rate (76% vs 37%)
